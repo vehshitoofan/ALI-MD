@@ -1,8 +1,8 @@
 {
-  "name": "ALI-MD",
-  "description": "Javascript WhatsApp bot made by ali",
-  "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["ALI-MD"],
+  "name": "ABU_TOOFAN",
+  "description": "Javascript WhatsApp bot made by TOOFAN",
+  "logo": "https://files.catbox.moe/jm4sbf.jpg",
+  "keywords": ["ABU_TOOFAN"],
   "success_url": "/",
 
     "stack": "container",
@@ -14,13 +14,13 @@
     },  
     
     
-    "STICKER_NAME": {
+    "STICKER_NAME": { ابو طوفان 💀 
       "description": "type your sticker pack name.",
       "required": false,
       "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
     }, 
       
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
       "value": "."
